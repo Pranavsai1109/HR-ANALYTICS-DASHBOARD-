@@ -7,4 +7,12 @@ To design and implement an interactive HR Analytics Dashboard using Power BI tha
 2.Average Age - Average age of the employees.
 3.Total Headcount – Number of active employees.
 4.Educational backgrounds.
-5.
+# Dataset
+<a href ="https://github.com/Pranavsai1109/HR-ANALYTICS-DASHBOARD-/blob/main/HR%20Data.xlsx">HR data/a>
+# Dashboard
+<a href ="https://github.com/Pranavsai1109/HR-ANALYTICS-DASHBOARD-/blob/cbeaf978e2faaea0fd532dba78a9048ee9b7fd08/Screenshot%202025-06-07%20171754.png">Dashboard/a>
+# Conclusion
+The HR Analytics Dashboard successfully transformed raw HR data into actionable insights, enabling data-driven decision-making across recruitment, retention, and performance management. By visualizing key KPIs such as attrition rate, employee performance, and employee absences, the dashboard empowered HR leaders to identify trends, address workforce challenges proactively, and support strategic planning to improve overall organizational efficiency.
+
+
+
