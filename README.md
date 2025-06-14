@@ -10,7 +10,8 @@ To design and implement an interactive HR Analytics Dashboard using Power BI tha
 # Dataset
 <a href ="https://github.com/Pranavsai1109/HR-ANALYTICS-DASHBOARD-/blob/main/HR%20Data.xlsx">HR data/a>
 # Dashboard
-<a href ="https://github.com/Pranavsai1109/HR-ANALYTICS-DASHBOARD-/blob/cbeaf978e2faaea0fd532dba78a9048ee9b7fd08/Screenshot%202025-06-07%20171754.png">Dashboard/a>
+![Screenshot 2025-06-01 181846](https://github.com/user-attachments/assets/5fd61d9b-db5a-4350-9d49-6a861629a387)
+
 # Conclusion
 The HR Analytics Dashboard successfully transformed raw HR data into actionable insights, enabling data-driven decision-making across recruitment, retention, and performance management. By visualizing key KPIs such as attrition rate, employee performance, and employee absences, the dashboard empowered HR leaders to identify trends, address workforce challenges proactively, and support strategic planning to improve overall organizational efficiency.
 
